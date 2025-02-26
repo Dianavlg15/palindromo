@@ -1,0 +1,2 @@
+# palindromo
+primera practica
